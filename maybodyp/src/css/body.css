@@ -1,0 +1,6 @@
+body{
+  height:100vh ;
+  background:var(--backg);
+  display:flex;
+  flex-direction:column;
+}

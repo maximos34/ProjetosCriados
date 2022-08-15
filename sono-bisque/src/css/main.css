@@ -1,0 +1,127 @@
+@import url(/src/css/estilo.css);
+
+main {
+  width: 100%;
+  height: 100%;
+  background: var(--color0);
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.banner {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background: var(--color1);
+
+}
+
+.capa {
+  width: 9rem;
+}
+
+.ptitulo {
+  font-size: 1.3rem;
+  font-family: var(--titulo);
+  text-transform: capitalize;
+  word-spacing: .2rem;
+  word-wrap: wrap;
+  text-align: center;
+}
+
+
+
+.principal {
+  border: 1rem groove var(--color1);
+  padding: 1rem;
+}
+
+.caixa {
+  display: flex;
+  padding: 1rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: .5rem groove var(--color1);
+  gap: 1rem;
+}
+
+.frosto {
+  width: 100%;
+}
+
+.materia1 {
+  font-family: var(--paragraf);
+  font-size: 1.1rem;
+}
+
+.btn {
+  width: auto;
+  background: var(--color5);
+  color: var(--color-text-0);
+  padding: 1.5rem;
+  border: .6rem groove var(--color0);
+  border-radius: 6rem;
+  font-family: var(--titulo);
+}
+
+
+@media all and (max-width:32rem) {
+  .capa {
+    width: 9rem;
+  }
+
+
+
+  .ptitulo {
+    font-size: 1.3rem;
+    font-family: var(--titulo);
+    text-transform: capitalize;
+    word-spacing: .2rem;
+    word-wrap: wrap;
+    text-align: center;
+  }
+
+
+
+  .principal {
+    border: 1rem groove var(--color1);
+    padding: 1rem;
+  }
+
+  .caixa {
+    display: flex;
+    padding: 1rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: .5rem groove var(--color1);
+    gap: 1rem;
+  }
+
+  .frosto {
+    width: 100%;
+  }
+
+  .materia2 {
+    font-family: var(--paragraf);
+    font-size: 1.1rem;
+  }
+
+  .btn {
+    width: auto;
+    background: var(--color5);
+    color: var(--color-text-0);
+    padding: .5rem;
+    border: .6rem groove var(--color0);
+    font-family: var(--titulo);
+  }
+}
+
+
+

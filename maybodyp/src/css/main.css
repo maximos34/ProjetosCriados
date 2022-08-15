@@ -1,0 +1,104 @@
+main {
+  flex: 1;
+}
+
+.card {
+  width: 100%;
+  height: 30vh;
+  margin-top:2rem;
+  padding: 2rem 3rem;
+  display: flex;
+  flex-direction: row;
+  gap: 10rem;
+  justify-content: center;
+  align-items: space-around;
+  background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), var(--color5);
+  border: 0.8rem groove var(--color3)
+}
+
+.PerfilImg {
+
+  width: 16rem;
+  height: 16rem;
+  border-radius: 100%;
+  border: 0.5rem groove var(--color3)
+}
+
+.information{
+  display: flex;
+  flex-direction: column;
+}
+
+.infos{
+  display: flex;
+  justify-content:space-around;
+  margin-bottom:2rem;
+}
+
+h2 {
+  font-family: var(--title);
+  font-size: 3rem;
+  color: var(--color3);
+}
+
+span {
+  font-family: var(--title);
+  font-size: 2.8rem;
+  color: var(--color3);
+}
+
+.fa-location-dot {
+  font-size: 2.4rem;
+  color: var(--color3);
+}
+
+.description {
+  font-family: var(--paragraf);
+  font-size: 2.4rem;
+  color: var(--color3);
+}
+
+.portfolio{
+  display:flex;
+  flex-direction: column;
+  justify-content:center;
+align-items:center;
+  background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), var(--color5);
+  border: 0.8rem groove var(--color3);
+}
+
+.gridimages{
+display:flex;
+justify-content:center;
+align-items:center;
+flex-wrap: wrap;
+gap:2rem;
+margin: 2rem 0 2rem 2rem;
+}
+
+
+.ptf{
+width: 15rem;
+height: 100%;
+border: 0.8rem groove var(--color3);
+}
+
+.contact{
+  width: 100%;
+  height: auto;
+  margin-top:2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 4rem;
+  background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4)), var(--color5);
+  border: 0.8rem groove var(--color3);
+}
+
+.infoMap{
+  margin-top: 2rem;
+  font-family: var(--paragraf);
+  font-size: 2.4rem;
+  color: var(--color3);
+}

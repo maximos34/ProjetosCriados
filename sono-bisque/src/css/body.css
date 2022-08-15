@@ -1,0 +1,7 @@
+@import url(/src/css/estilo.css);
+
+body {
+  min-height: 100vh;
+  font-family: var(--paragraf);
+}
+

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2? família=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2? família=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2? família=Crimson+Text&display=swap');
+
+:root {
+  --backg: #0b0909;
+  --color1: #be922b;
+  --color2: #b5383e;
+  --color3: #f5f5f9;
+  --color4: #4c5c59;
+  --color5: #38b6ff;
+  --paragraf: 'Dancing Script', cursivo;
+  --title:'Comfortaa', cursiva;
+  --text:'Texto Carmesim', serif;
+}
