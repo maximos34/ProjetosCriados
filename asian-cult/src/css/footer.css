@@ -1,0 +1,9 @@
+footer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 1.4rem;
+  height: auto;
+  background: var(--color5);
+  color: var(--color-text0);
+}

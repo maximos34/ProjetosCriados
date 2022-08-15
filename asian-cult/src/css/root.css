@@ -1,0 +1,64 @@
+@import url('/src/css/estilo.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400");
+
+:root {
+  --font-1: 'neo-tech';
+  --font-2: 'hiromi';
+  --font-3: 'japanh';
+  --font-4: 'japan';
+  --font-5: 'japant';
+  --font-6: 'mattiott';
+  --font-7: 'neo-techi';
+  --font-8: 'osaka';
+  --font-9: 'Roboto', sans-serif;
+  --font-10: Open Sans, Verdana, sans-serif;
+
+  --black1: hsl(0, 0%, 8%);
+  --black2: hsl(0, 0%, 16%);
+  --black3: hsl(0, 0%, 24%);
+  --black4: hsl(0, 0%, 32%);
+  --black5: hsl(0, 0%, 40%);
+  --black6: hsl(0, 0%, 48%);
+  --black7: hsl(0, 0%, 56%);
+  --black8: hsl(0, 0%, 64%);
+  --black9: hsl(0, 0%, 72%);
+  --black10: hsl(0, 0%, 80%);
+
+  --red1: hsl(358, 71%, 8%);
+  --red2: hsl(357, 73%, 16%);
+  --red3: hsl(357, 72%, 24%);
+  --red4: hsl(357, 72%, 32%);
+  --red5: hsl(357, 72%, 40%);
+  --red6: hsl(357, 72%, 48%);
+  --red7: hsl(357, 72%, 56%);
+  --red8: hsl(357, 72%, 64%);
+  --red9: hsl(357, 72%, 72%);
+  --red10: hsl(357, 73%, 80%);
+
+  --gold1: hsl(0, 0%, 8%);
+  --gold2: hsl(46, 90%, 16%);
+  --gold3: hsl(46, 89%, 24%);
+  --gold4: hsl(46, 89%, 32%);
+  --gold5: hsl(46, 89%, 40%);
+  --gold6: hsl(46, 89%, 48%);
+  --gold7: hsl(46, 89%, 56%);
+  --gold8: hsl(46, 89%, 64%);
+  --gold9: hsl(46, 89%, 72%);
+  --gold10: hsl(46, 88%, 80%);
+
+  --bege1: hsl(12, 65%, 8%);
+  --bege2: hsl(10, 63%, 16%);
+  --bege3: hsl(11, 64%, 24%);
+  --bege4: hsl(11, 64%, 32%);
+  --bege5: hsl(11, 64%, 40%);
+  --bege6: hsl(11, 64%, 48%);
+  --bege7: hsl(11, 64%, 56%);
+  --bege8: hsl(11, 64%, 64%);
+  --bege9: hsl(11, 64%, 72%);
+  --bege10: hsl(11, 65%, 80%);
+
+
+  --ctext0: hsl(0, 0%, 100%);
+  --ctext1: hsl(0, 0%, 0%);
+}

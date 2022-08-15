@@ -1,0 +1,44 @@
+@import url('/src/css/estilo.css');
+
+
+@font-face {
+  font-family: 'neo-tech';
+  src: url('/src/assets/fonts/Neo Tech.ttf');
+}
+
+@font-face {
+  font-family: 'hiromi';
+  src: url('/src/assets/fonts/HIROMISAKE.ttf');
+
+}
+
+@font-face {
+  font-family: 'japanh';
+  src: url('/src/assets/fonts/JAPAN-Hollow.ttf');
+}
+
+@font-face {
+  font-family: 'japan';
+  src: url('/src/assets/fonts/Japan.ttf');
+}
+
+@font-face {
+  font-family: 'japant';
+  src: url('/src/assets/fonts/Japanese Tourist.ttf');
+}
+
+@font-face {
+  font-family: 'mattiott';
+  src: url('/src/assets/fonts/MATIOTT ELEGANT FONT.ttf');
+}
+
+@font-face {
+  font-family: 'neo-techi';
+  src: url('/src/assets/fonts/Neo Tech Italic.ttf');
+}
+
+@font-face {
+  font-family: 'osaka';
+  src: url('/src/assets/fonts/osaka-re.ttf');
+}
+

@@ -1,0 +1,10 @@
+@import url('/src/css/estilo.css');
+
+body {
+  display: flex;
+  flex-direction: column;
+  height:100vh;
+  width: 98vw;
+  background:var(--black9);
+
+}
